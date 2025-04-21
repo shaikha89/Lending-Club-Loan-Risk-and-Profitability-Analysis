@@ -26,7 +26,7 @@ This project analyzes Lending Club loan data to explore credit risk, borrower be
 
 ## 🛠️ Tools Used
 
-- **Python 3**
+- **Python**
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
@@ -47,15 +47,7 @@ This project analyzes Lending Club loan data to explore credit risk, borrower be
 - Use machine learning classifiers (Logistic Regression, Random Forest, XGBoost).
 - Optimize profitability predictions based on borrower profiles.
 - Automate dashboard reporting for investors.
-
----
-
-## 📬 Contact
-
-For feedback, questions, or collaborations:  
-📧 your.email@example.com  
-💻 [GitHub Profile](https://github.com/yourusername)
-
+  
 ---
 
 ## 📜 License
