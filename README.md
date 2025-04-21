@@ -84,32 +84,6 @@ This project analyzes Lending Club loan data to explore credit risk, borrower be
 | `delinq_amnt`           | Float       | Total amount of delinquent payments.                          |
 | `pub_rec_bankruptcies`  | Integer     | Number of bankruptcies recorded.                              |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📊 Future Improvements
