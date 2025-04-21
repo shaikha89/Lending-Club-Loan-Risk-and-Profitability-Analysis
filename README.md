@@ -38,13 +38,7 @@ This project analyzes Lending Club loan data to explore credit risk, borrower be
 
 - 📌 Lending Club loan data:  
   [Kaggle Dataset Link](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv/data)
-
-
-
-
-
-
-  | Column Name              | Data Type   | Description                                                      |
+| Column Name              | Data Type   | Description                                                      |
 |--------------------------|-------------|------------------------------------------------------------------|
 | `id`                     | Object      | Unique identifier for each loan.                                |
 | `loan_amnt`             | Float       | The amount of the loan.                                         |
