@@ -1,3 +1,4 @@
+![](https://riskonnect.com/wp-content/uploads/2024/04/Quantitative-Risk-Management-vs.-Qualitative-Risk-Analysis-1.jpg)
 # Lending-Club-Loan-Risk-and-Profitability-Analysis
 This project analyzes Lending Club loan data to explore credit risk, borrower behavior, and loan profitability. It uses Python visualizations to uncover patterns in loan grades, purposes, income levels, interest rates, and payment behavior to help identify safer, more profitable loans.
 ## 📌 Project Goals
